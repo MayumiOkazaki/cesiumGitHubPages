@@ -34,9 +34,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.433826,
-                35.213875,
-                3776
+                138.727305,
+                35.360772,
+                3876
             ]
         },
         "label": {
@@ -448,42 +448,6 @@
                 }
             }
         }
-    },
-  
-        "position": {
-            "cartographicDegrees": [
-                138.5807665,
-                35.3995062,
-                1800
-            ]
-        },
-        "label": {
-            "translucencyByDistance": {
-                "nearFarScalar": [
-                    10000,
-                    1,
-                    80000,
-                    0
-                ]
-            },
-            "fillColor": {
-                "rgba": [
-                    255,
-                    255,
-                    255,
-                    255
-                ]
-            },
-            "pixelOffset": {
-                "cartesian2": [
-                    0,
-                    10
-                ]
-            },
-            "font": "8pt Sans-Serif",
-            "verticalOrigin": "BOTTOM",
-            "style": "FILL",
-            "text": "ネコ"
-        }
     }
+ 
 ]
