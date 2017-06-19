@@ -185,7 +185,7 @@
     {
         "id": "neko3",
         "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "明治神宮",
         "description": "<p class=\"date\">2014.11.9 08:30</p>",
         "billboard": {
             "scaleByDistance": {
@@ -274,7 +274,7 @@
     {
         "id": "neko4",
         "availability": "2014-11-22T19:20:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "調布飛行場",
         "description": "<p class=\"date\">2014.11.22 19:20</p>",
         "billboard": {
             "scaleByDistance": {
@@ -363,7 +363,7 @@
     {
         "id": "neko5",
         "availability": "2014-12-22T21:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "味の素スタジアム",
         "description": "<p class=\"date\">2014.12.22 21:00</p>",
         "billboard": {
             "scaleByDistance": {
