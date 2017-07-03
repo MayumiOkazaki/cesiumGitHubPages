@@ -12,6 +12,20 @@
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
+                    15000,[
+    {
+        "id": "document",
+        "name": "neko",
+        "version": "1.0"
+    },
+    {
+        "id": "neko1",
+        "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "富士山",
+        "description": "<p class=\"date\">2014.7.21 09:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
                     15000,
                     1,
                     200000,
@@ -197,7 +211,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://lh3.googleusercontent.com/-oXBsJKHfFXc/VqffkPIDWiI/AAAAAAAHPGo/rMexMDDoAew/s72-Ic42/neko.png",
+            "image": "http://furuhashilab.com/temp/MayumiOkazaki.png",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -286,7 +300,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://lh3.googleusercontent.com/-oXBsJKHfFXc/VqffkPIDWiI/AAAAAAAHPGo/rMexMDDoAew/s72-Ic42/neko.png",
+            "image": "http://furuhashilab.com/temp/MayumiOkazaki.png",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -375,7 +389,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://lh3.googleusercontent.com/-oXBsJKHfFXc/VqffkPIDWiI/AAAAAAAHPGo/rMexMDDoAew/s72-Ic42/neko.png",
+            "image": "http://furuhashilab.com/temp/MayumiOkazaki.png",
             "scale": 0.6,
             "color": {
                 "rgba": [
