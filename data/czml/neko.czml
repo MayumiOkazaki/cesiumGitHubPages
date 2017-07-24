@@ -96,7 +96,7 @@
     {
         "id": "neko2",
         "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "相模原キャンパス",
+        "name": "グラッシェル",
         "description": "<p class=\"date\">2014.8.2 12:50</p>",
         "billboard": {
             "scaleByDistance": {
@@ -123,8 +123,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                139.402835,
-                35.566462,
+                139.709104,
+                35.665838,
                 3999
             ]
         },
@@ -154,14 +154,14 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "相模原キャンパス"
+            "text": "グラッシェル"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    139.402835,
-                35.566462,
+                    139.709104,
+                35.665838,
                     3999,
                     139.402835,
                 35.566462,
@@ -185,7 +185,7 @@
     {
         "id": "neko3",
         "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "明治神宮",
+        "name": "東京スカイツリー",
         "description": "<p class=\"date\">2014.11.9 08:30</p>",
         "billboard": {
             "scaleByDistance": {
@@ -212,8 +212,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                139.699202,
-                35.676526,
+                139.810722,
+                35.710289,
                 3999
             ]
         },
@@ -243,14 +243,14 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "明治神宮"
+            "text": "東京スカイツリー"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    139.699202,
-                35.676526,
+                    139.810722,
+                35.710289,
                     3999,
                    139.699202,
                 35.676526,
