@@ -6,9 +6,9 @@
     },
     {
         "id": "neko1",
-        "availability": "2017-07-24T23:59:59+09:00",
+        "availability": "2000-07-21T09:00:00+09:00/2017-07-24T23:59:59+09:00",
         "name": "富士山",
-        "description": "<p class=\"date\">2017.7.24 09:00</p>",
+        "description": "<p class=\"date\">2010.7.01 09:00</p>",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
